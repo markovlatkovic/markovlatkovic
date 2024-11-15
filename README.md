@@ -4,7 +4,7 @@ I have 10+ years of experience building web applications using PHP, JavaScript, 
 
 ## Skills
 
-- Backend: PHP (Laravel, Symfony, CodeIgniter, CakePHP), Node.js
+- Backend: PHP (Laravel, Symfony), Node.js (Express, NestJS)
 - Frontend: JavaScript (React, Vue.js), HTML5, CSS3, Tailwind CSS
 - CMS: WordPress, Drupal, Shopify, Craft CMS
 - Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
